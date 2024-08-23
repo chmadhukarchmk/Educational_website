@@ -1,0 +1,162 @@
+.logon{
+    height: 80px;
+    width: 80px;
+}
+.cls{
+    color: black;
+    font-weight: bold;
+}
+.anchor1{
+    border: 1px solid black;
+    width: 120px;
+}
+.container{
+    background-image: url("./images/back2.jpg");
+    color: white;
+    text-align: center;
+    background-size: cover;
+    height: 500px;
+   padding-top: 150px;
+}
+.container1{
+    text-align: center;
+    font-style: italic;
+}
+.row1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    
+}
+.card1{
+    text-align: left;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    width: 380px;
+
+}
+.card2{
+    text-align: left;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    width: 380px;
+
+}
+.p1{
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    color: gray;
+}
+.label2{
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    
+}
+.label3{
+    color: green;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    color: gray;
+}
+.butn{
+    background: rgb(30, 30, 126);
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    color: white;
+    font-weight: bold;
+    border-width: 0px;
+}
+.container3{
+    background-image: url("./images/signup.jpg");
+    color: white;
+    text-align: center;
+    background-size: cover;
+    height: 100vh;
+   
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.btn1{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    background-color: rgb(142, 140, 140);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border-width: 0px;
+}
+.card3{
+    background-color: rgb(230, 228, 228);
+    padding: 30px;
+    color: black;
+    margin: auto;
+}
+.cards{
+    margin: auto;
+    padding: 20px;
+}
+h4{
+
+}
+#section_Blog{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+.cardpro{
+    padding: 20px;
+    margin: 10px;
+    background-color: bisque;
+    border-radius: 10px;
+    text-align: center;
+   
+}
+.footers{
+    background-color: navy;
+    padding: 20px;
+    
+
+}
+.containerfoot{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.footcard{
+    color: grey;
+    font-size: 15px;
+    margin: auto;
+}
+.btnn{
+    width: 70px;
+    height: 25px;
+    font-size: 10px;
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+.containerfoot1{
+    color: white;
+    font-size: 10px;
+    padding: 20px;
+    text-align: center;
+   
+}
